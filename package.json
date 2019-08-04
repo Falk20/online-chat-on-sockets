@@ -1,0 +1,27 @@
+{
+  "name": "online-chat-on-sockets",
+  "version": "1.0.0",
+  "description": "online-chat-on-sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Falk20/online-chat-on-sockets.git"
+  },
+  "keywords": [
+    "socket",
+    "chat"
+  ],
+  "author": "falk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Falk20/online-chat-on-sockets/issues"
+  },
+  "homepage": "https://github.com/Falk20/online-chat-on-sockets#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
