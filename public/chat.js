@@ -1,4 +1,4 @@
-let socket = io.connect('http://localhost:4000');
+let socket = io.connect('78.24.222.107:4000');
 
 let message = document.getElementById('message'),
 handle = document.getElementById('handle'),
